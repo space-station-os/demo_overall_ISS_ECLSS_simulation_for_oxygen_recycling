@@ -14,7 +14,7 @@ Carbon Dioxide To H2O,
 CO2 Removal System,
 VAPOR H2O Removal System,
 OXYGEN Production System,
-SABATIER Process,
+SABATIER Processor.
 
 !["Simulation from sicle" ](https://github.com/space-station-os/demo_overall_ISS_ECLSS_simulation_for_oxygen_recycling/blob/main/Figures/image1.png "Simulation for 30 days/results given every hour" )
 
