@@ -23,8 +23,8 @@ For more details, please refer to the document (SSOS_SSD_document_English).
 ## RESULTS FOR MODEL IN PROCESS
 Results will be given for a 30-day simulation where data is shown every hour. 
 Results like CSV.
-## FUNTIONS OF THE MODEL:
-  -Material transfer.
+## FUNTIONS OF THE MODEL
+  -Material transfer./
   -Amount of substance in each device per hour.
 
 ## RUN THE SIMULATION
