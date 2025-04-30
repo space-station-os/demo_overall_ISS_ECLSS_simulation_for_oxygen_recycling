@@ -1,7 +1,7 @@
 # demo_overall_ISS_ECLSS_simulation_for_oxygen_recycling
 ## Simulation for recycling CO2 to produce O2 for crews
 
-A Python-based simulation model has been developed, focusing on material circulation.
+A Python-based simulation model for material circulation has been developed.
 This simulation is focused on the RECYCLING CO2 SYSTEM, which aims to quantify the production and release of oxygen (O2) and carbon dioxide (CO2).
 
 
