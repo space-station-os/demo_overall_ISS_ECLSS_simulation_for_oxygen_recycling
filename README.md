@@ -16,6 +16,7 @@ VAPOR H2O Removal System.
 OXYGEN Production System.
 SABATIER Process.
 
+!["Simulation for 30 days/results given every hour" ](https://github.com/space-station-os/demo_overall_ISS_ECLSS_simulation_for_oxygen_recycling/tree/main/Figures )
 
 For more details, please refer to the document (SSOS_SSD_document_English).
 
@@ -28,4 +29,4 @@ Functions of the model:
 
  Run the simulation
 
-Open Simulation Loop.py to run the Demo. 
+Open Simulation Loop.py to run the Demo.
