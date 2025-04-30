@@ -16,7 +16,7 @@ VAPOR H2O Removal System.
 OXYGEN Production System.
 SABATIER Process.
 
-!["Simulation for 30 days/results given every hour" ](https://github.com/space-station-os/demo_overall_ISS_ECLSS_simulation_for_oxygen_recycling/tree/main/Figures )
+!["Simulation from sicle" ](https://github.com/space-station-os/demo_overall_ISS_ECLSS_simulation_for_oxygen_recycling/blob/main/Figures/image1.png "Simulation for 30 days/results given every hour" )
 
 For more details, please refer to the document (SSOS_SSD_document_English).
 
