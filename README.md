@@ -5,19 +5,20 @@ A Python-based simulation model for material circulation has been developed.
 This simulation is focused on the RECYCLING CO2 SYSTEM, which aims to quantify the production and release of oxygen (O2) and carbon dioxide (CO2).
 
 
-## DEVICES (Configuration):
-Human,
-Module,
+## DEVICES & Routes (Configuration):
+Human (Crew),
+Module(Human Tank),
 Oxygen Tank,
 Pure Water Small Tank,
 Gray H2o To Pure H2o Recycling Processor,
 Oxygen Recovery Processor,
 Carbon Dioxide Separator,
 Carbon Dioxide To H2O,
+Sabatier Processor(Sabatier2 System),
 CO2 Removal System,
 Vapor H2O Removal System,
-Oxygen Production System,
-SABATIER Processor.
+Oxygen Production System.
+
 
 !["Simulation from sicle" ](https://github.com/space-station-os/demo_overall_ISS_ECLSS_simulation_for_oxygen_recycling/blob/main/Figures/image1.png "Simulation for 30 days/results given every hour" )
 
