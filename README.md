@@ -15,7 +15,7 @@ Oxygen Recovery Processor,
 Carbon Dioxide Separator,
 Carbon Dioxide To H2O,
 Sabatier Processor(Sabatier2 System),
-Outside
+Outside,
 CO2 Removal System,
 Vapor H2O Removal System,
 Oxygen Production System.
